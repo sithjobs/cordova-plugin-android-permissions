@@ -157,7 +157,6 @@ function Permissions() {
     this.WRITE_USER_DICTIONARY = 'android.permission.WRITE_USER_DICTIONARY';
     this.WRITE_VOICEMAIL = 'com.android.voicemail.permission.WRITE_VOICEMAIL';
     this.CONTACTS = 'android.permission.CONTACTS';
-    this.CALL_PHONE = 'android.permission.CALL_PHONE';
 }
 
 function deprecated(name) {
